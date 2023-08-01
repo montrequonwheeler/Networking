@@ -1,19 +1,18 @@
 </p>
 
 <h1>Networking</h1>
-This walkthrough focuses on Building Intuition for DNS after the install configuration of Microsoft Active Directory Domain Services.
+In this walkthrough we will be performing activities on the network using Wireshark (protocol analyzer) and a bunch of command line tools. We'll be working with a few Azure resources such as a Virtual Machines (Windows 10 and Linux Ubuntu) and Network Security Groups (Firewall Resource)
 <br />
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop (Microsoft Remote Access in the App Store for MAC users)
-- Active Directory Domain Services
 
 <h2>Operating Systems Used</h2>
 
 - Windows Server 2022</b> (21H2)
-- Windows 10</b> (21H2)
+- Linux (Ubuntu)</b> (21H2)
 
 <h2>Setup Resources in Azure</h2>
 
