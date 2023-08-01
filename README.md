@@ -65,6 +65,7 @@ Stop the ping activity
 
 Back in Wireshark, filter for SSH traffic only
 From your Windows 10 VM, “SSH into” your Ubuntu Virtual Machine (via its private IP address)
+When entering the password, it will appear invisible
 Type commands (username, pwd, etc) into the linux SSH connection and observe SSH traffic spam in WireShark
 Exit the SSH connection by typing ‘exit’ and pressing [Enter]
 <img width="1440" alt="Screenshot 2023-08-01 at 11 26 07 AM" src="https://github.com/montrequonwheeler/Networking/assets/127397594/6909eb0f-aeaa-445b-9dec-e2f8698c8843">
@@ -96,3 +97,4 @@ https://github.com/montrequonwheeler/Networking/assets/127397594/2b6f3b47-1292-4
 Close your Remote Desktop connection
 Delete the Resource Group(s) created at the beginning of this lab
 Verify Resource Group Deletion
+
