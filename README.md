@@ -1,6 +1,6 @@
 </p>
 
-<h1>Networking</h1>
+<h1>Performing Activities on the Network</h1>
 In this walkthrough we will be performing activities on the network using Wireshark (protocol analyzer) and a bunch of command line tools. We'll be working with a few Azure resources such as a Virtual Machines (Windows 10 and Linux Ubuntu) and Network Security Groups (Firewall Resource)
 <br />
 
